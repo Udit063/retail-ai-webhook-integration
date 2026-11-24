@@ -1,0 +1,12 @@
+{
+  "text": "Payment successful: TXN-0001 | INR 936.00 | Order ORD-0001",
+  "blocks": [
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*:white_check_mark: Payment success*\n*Transaction:* TXN-0001\n*Order:* ORD-0001\n*Amount:* INR 936.00"
+      }
+    }
+  ]
+}

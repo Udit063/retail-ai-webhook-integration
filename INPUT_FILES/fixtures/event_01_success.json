@@ -1,0 +1,13 @@
+{
+  "event_id": "EVT-0001",
+  "event_type": "transaction.status_changed",
+  "created_at": "2026-11-23T10:30:00Z",
+  "data": {
+    "transaction_id": "TXN-0001",
+    "order_id": "ORD-0001",
+    "customer_ref": "CUST-002",
+    "amount_minor": 93600,
+    "currency": "INR",
+    "status": "success"
+  }
+}

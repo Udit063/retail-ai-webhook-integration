@@ -1,0 +1,8 @@
+{
+  "event_id": "EVT-0007",
+  "event_type": "transaction.status_changed",
+  "data": {
+    "transaction_id": "TXN-0001",
+    "status": "success"
+  }
+}
